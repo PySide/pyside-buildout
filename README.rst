@@ -1,3 +1,9 @@
+===========================
+PySide development buildout
+===========================
+
+.. contents:: **Table of Contents** 
+
 Setting up Your Development Environment
 =======================================
 
