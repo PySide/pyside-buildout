@@ -11,7 +11,7 @@ To set up a PySide development environment:
 
     ::
 
-        git clone https://github.com/PySide/pyside.buildout ./PySideDevel
+        git clone https://github.com/PySide/pyside-buildout.git PySideDevel
         virtualenv --no-site-packages PySideEnv
         cd PySideDevel
         ../PySideEnv/bin/python bootstrap.py
